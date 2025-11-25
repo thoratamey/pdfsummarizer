@@ -1,8 +1,6 @@
 This project contains **two different implementations** of a **multi-agent PDF question-answering and summarization system**.
 Both systems perform **PDF ingestion, chunking, embedding, retrieval, summarization**, and a **planner agent that automatically selects the right agent**.
 
-However, the two implementations differ greatly in their **architecture**, **dependencies**, and **execution mode**.
-
 ---
 
 # 🔵 **Code Version 1 – Online Multi-Agent RAG Using AgentSDK + OpenAI API - planagent.py**
