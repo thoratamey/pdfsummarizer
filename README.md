@@ -5,9 +5,7 @@ However, the two implementations differ greatly in their **architecture**, **dep
 
 ---
 
----
-
-# 🔵 **Code Version 1 – Online Multi-Agent RAG Using AgentSDK + OpenAI API**
+# 🔵 **Code Version 1 – Online Multi-Agent RAG Using AgentSDK + OpenAI API - planagent.py**
 
 ### 📌 **Concept**
 
@@ -78,7 +76,7 @@ So this version is **cloud-dependent**.
 
 ---
 
-# 🟢 **Code Version 2 – Fully Offline Multi-Agent RAG (No API Calls)**
+# 🟢 **Code Version 2 – Fully Offline Multi-Agent RAG (No API Calls) - planoffagent.py**
 
 ### 📌 **Concept**
 
@@ -207,16 +205,4 @@ Both systems follow the same conceptual flow:
    * A **summary request** → → Summarization agent
 5. **Planner** selects the right agent automatically
 
----
-
-Let me know if you want:
-
-✔️ Diagrams
-✔️ A combined README
-✔️ Installation steps
-✔️ Folder structure
-✔️ Architecture drawings
-✔️ Flowcharts for planner → agents
-
-I can generate all of that.
 
